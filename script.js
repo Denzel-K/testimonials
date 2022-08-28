@@ -1,5 +1,5 @@
-const previous = document.querySelectorAll('#prev');
-const next = document.querySelectorAll('#next');
+const previous = document.querySelectorAll('.previous');
+const next = document.querySelectorAll('.nextone');
 const Tanya = document.querySelector('.Tanya');
 const Tarkpor = document.querySelector('.Tarkpor');
 const previousbtn = document.querySelectorAll('.prev');
