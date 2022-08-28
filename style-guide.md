@@ -21,6 +21,6 @@ The designs were created to the following widths:
 - Font size: 32px
 
 ### Font
-
-- Family: [Inter](https://fonts.google.com/specimen/Inter)
+https://fonts.google.com/specimen/Inter
+- Family: [Inter]()
 - Weights: 300, 500, 700
